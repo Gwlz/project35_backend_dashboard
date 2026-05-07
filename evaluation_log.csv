@@ -1,0 +1,2 @@
+saved_time,alert_id,dataset_row,preset,dataset_label,model_prediction,risk_band,threat_confidence_percent,trust_score,analyst_decision,explanation_clarity_1_to_5,analyst_trust_1_to_5,note
+2026-05-07 14:33:17,A14314444,14,None - use dataset row as-is,Normal,Benign,Low,0.65,98,Dismiss,3,5,benign
